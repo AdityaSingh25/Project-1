@@ -1,0 +1,25 @@
+.c1{
+    background-color: bisque;
+    width: 100%;
+    border: 4px solid black;
+    border-radius:20px ;
+    
+    height: 130px;
+    
+}
+
+h1{
+    color: feeafa;
+    
+}
+
+
+#img1{
+    margin: 10px;
+    visibility: hidden;
+}
+
+#img2{
+    margin: 30px;
+    visibility: hidden;
+}
